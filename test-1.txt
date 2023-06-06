@@ -1,0 +1,6 @@
+Step to create git repo
+	1.create folder for your project
+	2.move to your folder you just create.
+	3.make your folder to be git repo by type -git init in your command prompt.
+	4.
+	5. 

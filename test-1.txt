@@ -4,3 +4,4 @@ Step to create git repo
 	3.make your folder to be git repo by type -git init in your command prompt.
 	4.edit something
 	5. 
+git remote add origin https://github.com/suttipo/ex-git/git_1.git
